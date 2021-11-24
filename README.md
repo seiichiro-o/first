@@ -10,3 +10,6 @@ Even more stuff.
 
 ##No Code
 Cuz that's too much work
+
+##VSCODE
+The app version, not the website
