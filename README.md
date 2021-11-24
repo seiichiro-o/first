@@ -9,7 +9,9 @@ I'm baby tumeric put a bird on it succulents jianbing, forage photo booth offal 
 Even more stuff.
 
 ##No Code
+
 Cuz that's too much work
 
 ##VSCODE
+
 The app version, not the website
